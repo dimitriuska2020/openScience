@@ -29,7 +29,7 @@ Lessons
 5	on boarding – tools – welcoming community – also in our community – graph thinking 
 6	
 7	
-![image](https://user-images.githubusercontent.com/75691425/110286080-92607c80-7fe4-11eb-8338-883a6b710121.png)
+8
 
 
 
