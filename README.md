@@ -3,9 +3,9 @@ describe tips and tricks to make a scientific production open reproducible and c
 
 "When all researchers are aware of Open Science, and are trained, supported and guided at all career stages to practice Open Science, the potential is there to fundamentally change the way research is performed and disseminated, fostering a scientific ecosystem in which research gains increased visibility, is shared more efficiently, and is performed with enhanced research integrity." Open Science Skills Working Group Report (2017)
 
-https://ever-est.eu/
-https://vre4eic.ercim.eu/
-https://www.openaire.eu/
+* https://ever-est.eu/
+* https://vre4eic.ercim.eu/
+* https://www.openaire.eu/
 
 
 
